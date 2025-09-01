@@ -11,8 +11,8 @@ npm install
 npm run dev
 
 
-The app will run locally at:
-👉 http://localhost:5173/
+The app will run at:
+👉 https://tenzies-p9q5.vercel.app/
 
 🛠 Tech Stack
 
